@@ -1,4 +1,4 @@
-Using two Firebeetles, one connected to a computer and another to the device itself, we connected 3 ecg readers and an fsr sensor to measure heartrate and breathing rate of the user. Comes in an easy to use wearable strap. 
+Using two Firebeetles, one connected to a computer and another to the device itself, we connected 3 ecg readers and a FSR sensor to measure heartrate and breathing rate of the user. Comes in an easy to use wearable strap.
 Here is the device itself:
 ![image](https://github.com/user-attachments/assets/5054e433-20e8-4daa-a82f-a363410b12e6)
     
